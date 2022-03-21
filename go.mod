@@ -1,4 +1,4 @@
-module github.com/NVIDIA/go-dcgm
+module github.com/pint1022/go-dcgm
 
 go 1.16
 

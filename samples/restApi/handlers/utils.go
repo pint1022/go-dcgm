@@ -3,7 +3,7 @@ package handlers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/NVIDIA/go-dcgm/pkg/dcgm"
+	"github.com/pint1022/go-dcgm/pkg/dcgm"
 	"log"
 	"math"
 	"net/http"

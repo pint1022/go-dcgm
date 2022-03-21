@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/NVIDIA/go-dcgm/pkg/dcgm"
+	"github.com/pint1022/go-dcgm/pkg/dcgm"
 	"log"
 	"os"
 	"text/template"

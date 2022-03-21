@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/NVIDIA/go-dcgm/pkg/dcgm"
+	"github.com/pint1022/go-dcgm/pkg/dcgm"
 	"math"
 	"strconv"
 	"strings"
